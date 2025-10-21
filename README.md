@@ -1,0 +1,2 @@
+# Malaysia locale
+maps data
