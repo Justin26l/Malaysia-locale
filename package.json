@@ -1,0 +1,30 @@
+{
+  "name": "malaysia-locale",
+  "version": "1.0.0",
+  "description": "malaysia localisation data",
+  "keywords": [
+    "malaysia",
+    "locale",
+    "district"
+  ],
+  "homepage": "https://github.com/Justin26l/Malaysia-locale#readme",
+  "bugs": {
+    "url": "https://github.com/Justin26l/Malaysia-locale/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Justin26l/Malaysia-locale.git"
+  },
+  "license": "ISC",
+  "author": "Justin26l",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/test.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4"
+  }
+}

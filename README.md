@@ -1,2 +1,2 @@
 # Malaysia locale
-maps data
+malaysia localization data
